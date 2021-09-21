@@ -1,0 +1,6 @@
+1. [the-basic](https://github.com/Rianifitriim/Git-github-Technical-assignment.git)
+2. [portfolio-and-cv](https://github.com/Rianifitriim/portfolio-and-cv-.git)
+3. [branch-and-merge](https://github.com/Rianifitriim/branch-and-merge.git)
+4. [more-advanced](https://github.com/Rianifitriim/more-advanced.git)
+5. [submit-my-change-1](https://github.com/Rianifitriim/tech4impact-students-bio.git)
+6. [submit-my-change-2](https://github.com/Rianifitriim/submit-my-changes.git)
